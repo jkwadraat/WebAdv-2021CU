@@ -1,0 +1,12 @@
+// import Font Awesome
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css";
+
+// override Bootstrap variables (before importing Bootstrap!!!)
+@import "variables";
+
+// import Bootstrap
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// custom code/partials
+// question 2
+@import "question2";

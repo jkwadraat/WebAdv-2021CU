@@ -1,0 +1,42 @@
+{
+  "name": "WebAdv-2021A",
+  "version": "",
+  "description": "1ITF - Webdesign Advanced - Exam",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkwadraat/WebAdv-2021A.git"
+  },
+  "keywords": [
+    "Thomas More Kempen",
+    "1ITF",
+    "Webdesign Advanced",
+    "Exam"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/jkwadraat/WebAdv-2021A#readme",
+  "scripts": {
+    "watch": "gulp",
+    "zip": "gulp zip"
+  },
+  "devDependencies": {
+    "@lipemat/css-mqpacker": "^8.0.1",
+    "bootstrap": "^4.6.0",
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-dart-sass": "^1.0.2",
+    "gulp-newer": "^1.4.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-zip": "^5.1.0",
+    "jquery": "^3.6.0",
+    "sass": "1.32.13"
+  }
+}
